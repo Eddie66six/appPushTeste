@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "813783790363",
+    "firebase_url": "https://ionic4-apppushteste.firebaseio.com",
+    "project_id": "ionic4-apppushteste",
+    "storage_bucket": "ionic4-apppushteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813783790363:android:6ab92278be19eee3",
+        "android_client_info": {
+          "package_name": "br.com.w12.evobeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813783790363-ir93jgpvcf6e50jicqftpskurliaece6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIuQf7pIIz0w6BMgsfoeyWApKbXPXWKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
